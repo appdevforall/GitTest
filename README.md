@@ -1,3 +1,3 @@
 # GitTest
 Repository to test Git UI
-##Can Elissa update it? 
+##Can Elissa update it? Yes, she can!  
