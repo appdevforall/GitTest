@@ -5,3 +5,5 @@ Repository to test Git UI
 ##Monday, 7th September, 2026
 
 ##Summary, description, no watermark
+
+##Summary, description, watermark
